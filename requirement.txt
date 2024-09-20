@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+Pillow
+opencv-python
+glob2
+pathlib
+gc
